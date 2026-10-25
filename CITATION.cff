@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "UK legal costs open data (England and Wales)"
+type: dataset
+authors:
+  - name: "DMD Costs"
+    website: "https://www.dmdcosts.co.uk/"
+url: "https://www.dmdcosts.co.uk/open-data"
+repository-code: "https://github.com/Ments123/uk-legal-costs-data"
+license: CC-BY-4.0
+keywords:
+  - court fees
+  - guideline hourly rates
+  - legal costs
+  - civil procedure
+  - England and Wales
+  - open data
