@@ -28,3 +28,7 @@ The data shows published figures and the dates they applied. It is not legal adv
 ## Corrections
 
 Found an error? Email info@dmdcosts.co.uk with the file and row. We check it against the source and correct it on the site; this repository follows at the next sync. How the site's content is checked: [editorial standards](https://www.dmdcosts.co.uk/editorial-standards).
+
+## About DMD Costs
+
+[DMD Costs](https://www.dmdcosts.co.uk/) is a firm of law costs draftsmen in Greater Manchester, instructed by claimant solicitor firms across England and Wales. Free costs tools and guides: [dmdcosts.co.uk/legal-costs-help](https://www.dmdcosts.co.uk/legal-costs-help). Short costs explainers with transcripts: [YouTube @dmdcosts](https://www.youtube.com/@dmdcosts) and [dmdcosts.co.uk/costs-explainer-videos](https://www.dmdcosts.co.uk/costs-explainer-videos). Also on [LinkedIn](https://www.linkedin.com/company/dmd-costs).
